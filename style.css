@@ -1,0 +1,27 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+}
+#card-container {
+  background-color: white;
+  width: 18rem;
+  padding: 20px;
+  border-radius: 4%;
+  margin: 230px auto auto auto;
+  box-shadow: 1px 8px 3px 8px rgba(204, 204, 204, 0.26);
+  -webkit-box-shadow: 1px 8px 3px 8px rgba(204, 204, 204, 0.26);
+  -moz-box-shadow: 1px 8px 3px 8px rgba(204, 204, 204, 0.26);
+}
+img {
+  width: 300px;
+  border-radius: 4%;
+  position: relative;
+  right: 6px;
+}
+p {
+  color: hsl(220, 15%, 55%);
+}
+.attribution {
+  margin-top: 60px;
+}
